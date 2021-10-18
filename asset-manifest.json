@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-web/static/css/main.6d1add76.chunk.css",
+    "main.js": "/react-web/static/js/main.dd66c5e4.chunk.js",
+    "main.js.map": "/react-web/static/js/main.dd66c5e4.chunk.js.map",
+    "runtime-main.js": "/react-web/static/js/runtime-main.8e35062e.js",
+    "runtime-main.js.map": "/react-web/static/js/runtime-main.8e35062e.js.map",
+    "static/js/2.8f4db356.chunk.js": "/react-web/static/js/2.8f4db356.chunk.js",
+    "static/js/2.8f4db356.chunk.js.map": "/react-web/static/js/2.8f4db356.chunk.js.map",
+    "index.html": "/react-web/index.html",
+    "static/css/main.6d1add76.chunk.css.map": "/react-web/static/css/main.6d1add76.chunk.css.map",
+    "static/js/2.8f4db356.chunk.js.LICENSE.txt": "/react-web/static/js/2.8f4db356.chunk.js.LICENSE.txt",
+    "static/media/img2.jpg": "/react-web/static/media/img2.0d886529.jpg",
+    "static/media/img6.jpg": "/react-web/static/media/img6.8e7b5200.jpg",
+    "static/media/safari.55a75706.jpg": "/react-web/static/media/safari.55a75706.jpg",
+    "static/media/trav.b009be89.jpg": "/react-web/static/media/trav.b009be89.jpg",
+    "static/media/video.21da0235.mp4": "/react-web/static/media/video.21da0235.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e35062e.js",
+    "static/js/2.8f4db356.chunk.js",
+    "static/css/main.6d1add76.chunk.css",
+    "static/js/main.dd66c5e4.chunk.js"
+  ]
+}
